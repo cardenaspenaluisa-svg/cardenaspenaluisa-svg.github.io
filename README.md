@@ -1,11 +1,19 @@
 ## cardenaspenaluisa-svg.github.io
 
 # Luis Agustín Pena
+
+Mathematician and university lecturer working in algebraic combinatorics.
+
+**Affiliation:** [Instituto de Matemáticas], [Universidad de Talca], Chile  
+**Email:** [cardenaspenaluisa@gmail.com](mailto:cardenaspenaluisa@gmail.com)  
+**Curriculum vitae:** [Download CV (PDF)](CV_Luis_Pena.pdf)
 ## Research interests
 
 I am a mathematician, researcher, and university lecturer working primarily in algebraic combinatorics. My research focuses on symmetric and nonsymmetric functions, tableaux, key polynomials, and the Robinson–Schensted–Knuth correspondence. I am particularly interested in bijective proofs and combinatorial descriptions of relationships between polynomial bases. I have also worked on parking functions.
 
-## Education background
+My doctoral work introduced a characterization of right key tableaux using suprema of decreasing subwords, making their compatibility with the RSK correspondence explicit. I subsequently applied this characterization to Cauchy identities for arbitrary Ferrers shapes and extended the construction to skew Ferrers shapes using bounds on both left and right keys.
+
+## Education
 
 I completed my Ph.D. in Mathematics at Universidad de Talca, Chile, in March 2026 under the supervision of Professor Luc Lapointe. My dissertation, *Schur Bases for the Ring of \(m\)-Symmetric Functions*, develops connections between symmetric functions and their nonsymmetric counterparts.
 
@@ -30,26 +38,29 @@ Throughout my academic career, I have combined research with university teaching
 
 ## Preprints
 
-1. Luc Lapointe and **Luis Pena**.
-   “A proof of the *m*-Symmetric Macdonald positivity at *t* = 1.”
+1. **Luis Pena**.
+   “Cauchy identities for skew Ferrers shapes via RSK and keys.”
    Preprint (2026).
-   [arXiv:2608.10223](https://arxiv.org/abs/2608.10223).
+   [arXiv:2609.15852](https://arxiv.org/abs/2609.15852).
 
 2. Luc Lapointe and **Luis Pena**.
    “A new characterization of right keys, and the *m*-symmetric Schur functions at *t* = 0.”
    Preprint (2026).
    [arXiv:2608.13276](https://arxiv.org/abs/2608.13276).
 
-3. **Luis Pena**.
-   “Cauchy identities for skew Ferrers shapes via RSK and keys.”
+3. Luc Lapointe and **Luis Pena**.
+   “A proof of the *m*-Symmetric Macdonald positivity at *t* = 1.”
    Preprint (2026).
-   [arXiv:2609.15852](https://arxiv.org/abs/2609.15852).
+   [arXiv:2608.10223](https://arxiv.org/abs/2608.10223).
 
-## Hobbies
+
+
+
+## Outside mathematics
 
 Physical activity is an important part of my life as a mathematician. It helps me clear my head and return to problems with a fresh perspective—and some of my best ideas arrive while my legs are busy.
 
-I enjoy calisthenics, especially pull-ups and push-up variations, as well as cycling and weightlifting. Although I started strength training relatively late, I am proud of reaching one-rep maximums of **106 kg on the bench press, 150 kg on the squat, and 200 kg on the deadlift**—all while writing my thesis! My long-term ambition is to reach **140 kg on the bench press, 220 kg on the squat, and 300 kg on the deadlift**. Those are ambitious targets—getting tenure might be easier—so my intermediate goals are 120, 180, and 250 kg, respectively. As in mathematics, I enjoy having a difficult problem to work toward.
+I enjoy calisthenics, especially pull-ups and push-up variations, as well as cycling and weightlifting. Although I started strength training relatively late, I am proud of reaching one-rep maximums of **106 kg on the bench press, 150 kg on the squat, and 200 kg on the deadlift**—all while writing my thesis! My long-term ambition is to reach **140 kg on the bench press, 220 kg on the squat, and 300 kg on the deadlift**.
 
 There is something satisfying about lifting a weight after spending the day wrestling with an abstract problem. At least in the gym, I know exactly how heavy the challenge is. Many of my best ideas have come while cycling through the countryside with my partner, who patiently puts up with me when my thoughts wander off into an interesting tableau construction.
 
@@ -61,9 +72,9 @@ Although I cook to relax, I firmly believe that practice makes perfect. The kitc
 
 <img src="Flan casero.jpg" alt="My most photogenic dessert" width="350">
 
-## Pets
-
-<img src="maomao.jpg" alt="Maomao, my study companion" width="350">
 
 Although it is not exactly a hobby, I am very fond of cats. They make excellent study companions, happy to sit beside you while you struggle with category theory—a subject surely beneath such Egyptian deities. Calling it “cat theory” seems rather presumptuous. I currently worship Maomao, a grey female cat whom I have persuaded to take an interest in a more earthly pursuit: goalkeeping. She loves catching the ball and has remarkable reflexes. Should she ever turn professional, even Messi and Cristiano Ronaldo might struggle to score a penalty against her.
+
+
+<img src="maomao.jpg" alt="Maomao, my study companion" width="350">
 
