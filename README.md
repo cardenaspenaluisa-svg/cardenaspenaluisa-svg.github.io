@@ -4,7 +4,7 @@
 
 Mathematician and university lecturer working in algebraic combinatorics.
 
-**Affiliation:** [Instituto de Matemáticas], [Universidad de Talca], Chile  
+**Affiliation:** Instituto de Matemáticas, Universidad de Talca, Chile  
 **Email:** [cardenaspenaluisa@gmail.com](mailto:cardenaspenaluisa@gmail.com)  
 **Curriculum vitae:** [Download CV (PDF)](CV_Luis_Pena.pdf)
 ## Research interests
