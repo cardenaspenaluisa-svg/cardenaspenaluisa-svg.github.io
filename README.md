@@ -59,7 +59,11 @@ I love cooking. Working dough with my hands helps me feel grounded when so much 
 
 Although I cook to relax, I firmly believe that practice makes perfect. The kitchen gives me a chance to keep learning, connect with friends and colleagues, and give my mathematical mind a rest.
 
+<img src="flan.webp" alt="My most photogenic dessert" width="350">
+
 ## Pets
+
+<img src="maomao.jpg" alt="Maomao, my study companion" width="350">
 
 Although it is not exactly a hobby, I am very fond of cats. They make excellent study companions, happy to sit beside you while you struggle with category theory—a subject surely beneath such Egyptian deities. Calling it “cat theory” seems rather presumptuous. I currently worship Maomao, a grey female cat whom I have persuaded to take an interest in a more earthly pursuit: goalkeeping. She loves catching the ball and has remarkable reflexes. Should she ever turn professional, even Messi and Cristiano Ronaldo might struggle to score a penalty against her.
 
