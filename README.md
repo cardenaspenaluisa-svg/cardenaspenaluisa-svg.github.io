@@ -76,7 +76,7 @@ Although I cook to relax, I firmly believe that practice makes perfect. The kitc
 
 ### Pets
 
-I am very fond of cats. They make excellent study companions, happy to sit beside you while you struggle with category theory—a subject surely beneath such Egyptian deities. Calling it “cat theory” seems rather presumptuous. I currently worship Maomao, a grey female cat whom I have persuaded to take an interest in a more earthly pursuit: goalkeeping. She loves catching the ball and has remarkable reflexes. Should she ever turn professional, even Messi and Cristiano Ronaldo might struggle to score a penalty against her.
+I am very fond of cats. They make excellent study companions, happy to sit beside you while you struggle with category theory. They may regard your efforts with an air of superiority—but that is only to be expected from Egyptian deities. Calling it “cat theory” seems rather presumptuous. I currently worship Maomao, a grey female cat whom I have persuaded to take an interest in a more earthly pursuit: goalkeeping. She loves catching the ball and has remarkable reflexes. Should she ever turn professional, even Messi and Cristiano Ronaldo might struggle to score a penalty against her.
 
 
 <img src="maomao.jpg" alt="Maomao, my study companion" width="350">
