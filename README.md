@@ -58,6 +58,8 @@ Throughout my academic career, I have combined research with university teaching
 
 ## Outside mathematics
 
+### Hobbies
+
 Physical activity is an important part of my life as a mathematician. It helps me clear my head and return to problems with a fresh perspective—and some of my best ideas arrive while my legs are busy.
 
 I enjoy calisthenics, especially pull-ups and push-up variations, as well as cycling and weightlifting. Although I started strength training relatively late, I am proud of reaching one-rep maximums of **106 kg on the bench press, 150 kg on the squat, and 200 kg on the deadlift**—all while writing my thesis! My long-term ambition is to reach **140 kg on the bench press, 220 kg on the squat, and 300 kg on the deadlift**.
@@ -72,6 +74,7 @@ Although I cook to relax, I firmly believe that practice makes perfect. The kitc
 
 <img src="Flan casero.jpg" alt="My most photogenic dessert" width="350">
 
+### Pets
 
 I am very fond of cats. They make excellent study companions, happy to sit beside you while you struggle with category theory—a subject surely beneath such Egyptian deities. Calling it “cat theory” seems rather presumptuous. I currently worship Maomao, a grey female cat whom I have persuaded to take an interest in a more earthly pursuit: goalkeeping. She loves catching the ball and has remarkable reflexes. Should she ever turn professional, even Messi and Cristiano Ronaldo might struggle to score a penalty against her.
 
