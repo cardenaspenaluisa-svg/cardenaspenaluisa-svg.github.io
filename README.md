@@ -59,7 +59,7 @@ I love cooking. Working dough with my hands helps me feel grounded when so much 
 
 Although I cook to relax, I firmly believe that practice makes perfect. The kitchen gives me a chance to keep learning, connect with friends and colleagues, and give my mathematical mind a rest.
 
-<img src="flan.webp" alt="My most photogenic dessert" width="350">
+<img src="Flan casero.jpg" alt="My most photogenic dessert" width="350">
 
 ## Pets
 
